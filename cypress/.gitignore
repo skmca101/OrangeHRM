@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Cypress-related
+cypress/videos/
+cypress/screenshots/
+cypress/reports/
+cypress/results/
+*.html # If you have temporary HTML reports or downloads
